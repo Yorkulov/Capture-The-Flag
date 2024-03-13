@@ -1,21 +1,23 @@
 > **Description**
 
-Python scripts are invoked kind of like programs in the Terminal... 
-Can you run this Python script using this password to get the flag?
+    Python scripts are invoked kind of like programs in the Terminal... 
+    Can you run this Python script using this password to get the flag?
 
 
 > **Files**
 
 [this Pyhton script](https://mercury.picoctf.net/static/325a52d249be0bd3811421eacd2c877a/ende.py)
+
 [this password](https://mercury.picoctf.net/static/325a52d249be0bd3811421eacd2c877a/pw.txt)
+
 [the flag](https://mercury.picoctf.net/static/325a52d249be0bd3811421eacd2c877a/flag.txt.en)
 
 
 > **Solve**
 
 ```
-cat pw.txt
-python ende.py -d flag.txt.en
+    cat pw.txt
+    python ende.py -d flag.txt.en
 ```
 
 
@@ -27,13 +29,13 @@ python ende.py -d flag.txt.en
 
 > _Additional Information_ 
 
-1. `cat` is a versatile command for viewing, manipulating, and working with file content in Linux.
-2. The `python` command is used to run python files
+    1. `cat` is a versatile command for viewing, manipulating, and working with file content in Linux.
+    2. The `python` command is used to run python files
 
 > _Point_
 
-10
+    10
 
 > _Type_
 
-General Skills
+    General Skills
