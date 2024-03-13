@@ -21,3 +21,11 @@ This file has a flag in plain sight (aka "in-the-clear")
 > _Additional Information_ 
 
 1. `cat` is a versatile command for viewing, manipulating, and working with file content in Linux.
+
+> _Point_
+
+5
+
+> _Type_
+
+General Skills
